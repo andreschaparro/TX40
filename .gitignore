@@ -1,0 +1,6 @@
+*.gbr
+*.gbrjob
+*.drl
+*-backups
+*.zip
+*.csv

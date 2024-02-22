@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>Z:\Sector Calefaccion\03. I+D\Electronica\En Ejecucion\TX40\PCB\TX40\TX40.kicad_sch</source>
+    <date>2/22/2024 7:48:02 AM</date>
+    <tool>Eeschema (6.0.6)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>TX40</title>
+        <company>FV SA</company>
+        <rev>1</rev>
+        <date>2024-02-21</date>
+        <source>TX40.kicad_sch</source>
+        <comment number="1" value="Autor: Ing. Andres Chaparro"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>C</value>
+      <footprint>Capacitor_THT:C_Rect_L13.0mm_W6.0mm_P10.00mm_FKS3_FKP3_MKS4</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TX40.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4a77a87-8d33-4f0d-b712-af0bd78c1eb8</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>C_Polarized</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TX40.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3fb2adc-e252-4e3a-9dd2-4d2ef8df8388</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>C</value>
+      <footprint>Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TX40.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee7b24f7-1e4f-4462-9b48-f46527ceb65c</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N4007</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4007" description="1000V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TX40.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1fbe8b94-fd3e-4518-9081-136c4e5717f3</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N4007</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4007" description="1000V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TX40.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68308733-ed57-4755-81b0-8df60037a9ec</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>39211000000</value>
+      <footprint>footprints:39211000000</footprint>
+      <fields>
+        <field name="Arrow Part Number">39211000000</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/39211000000/littelfuse?region=europe</field>
+        <field name="Datasheet_1">https://datasheet.lcsc.com/szlcsc/Littelfuse-39211000000_C99566.pdf</field>
+        <field name="Footprint_1">39211000000</field>
+        <field name="Height">8</field>
+        <field name="Manufacturer_Name">LITTELFUSE</field>
+        <field name="Manufacturer_Part_Number">39211000000</field>
+        <field name="Mouser Part Number">576-3921100000</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Littelfuse/39211000000?qs=x71drwq5GondAmkqFlpf6Q%3D%3D</field>
+        <field name="Reference_1">F</field>
+        <field name="Value_1">39211000000</field>
+      </fields>
+      <libsource lib="39211000000" part="39211000000" description="Fuses with Leads (Through Hole) 250V IEC TL LL 1A TE5"/>
+      <property name="Reference_1" value="F"/>
+      <property name="Value_1" value="39211000000"/>
+      <property name="Footprint_1" value="39211000000"/>
+      <property name="Datasheet_1" value="https://datasheet.lcsc.com/szlcsc/Littelfuse-39211000000_C99566.pdf"/>
+      <property name="Height" value="8"/>
+      <property name="Manufacturer_Name" value="LITTELFUSE"/>
+      <property name="Manufacturer_Part_Number" value="39211000000"/>
+      <property name="Mouser Part Number" value="576-3921100000"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Littelfuse/39211000000?qs=x71drwq5GondAmkqFlpf6Q%3D%3D"/>
+      <property name="Arrow Part Number" value="39211000000"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/39211000000/littelfuse?region=europe"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TX40.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9bdf2bdd-a25d-4e39-a4b8-327ccef018eb</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>691111710002</value>
+      <footprint>footprints:691111710002</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=eda</field>
+        <field name="DATASHEET-URL">https://www.we-online.com/catalog/datasheet/691111710002.pdf</field>
+        <field name="Description">
+2 Position Wire to Board Terminal Block Horizontal with Board 0.197 (5.00mm) Through Hole
+</field>
+        <field name="IR-UL">15A</field>
+        <field name="MF">Würth Elektronik</field>
+        <field name="MOUNT">THT</field>
+        <field name="MP">691111710002</field>
+        <field name="PART-NUMBER">691111710002</field>
+        <field name="PINS">2</field>
+        <field name="PITCH">5mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=snap</field>
+        <field name="TYPE">Horizontal</field>
+        <field name="VALUE">691111710002</field>
+        <field name="WIRE">24 to 14 (AWG) 0.205 to 2.08 (mm²)</field>
+        <field name="WORKING-VOLTAGE-UL">250V(AC)</field>
+      </fields>
+      <libsource lib="691111710002" part="691111710002" description=""/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=eda"/>
+      <property name="WIRE" value="24 to 14 (AWG) 0.205 to 2.08 (mm²)"/>
+      <property name="Description" value="&#xA;2 Position Wire to Board Terminal Block Horizontal with Board 0.197 (5.00mm) Through Hole&#xA;"/>
+      <property name="Package" value="None"/>
+      <property name="MOUNT" value="THT"/>
+      <property name="IR-UL" value="15A"/>
+      <property name="VALUE" value="691111710002"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="WORKING-VOLTAGE-UL" value="250V(AC)"/>
+      <property name="PINS" value="2"/>
+      <property name="MF" value="Würth Elektronik"/>
+      <property name="DATASHEET-URL" value="https://www.we-online.com/catalog/datasheet/691111710002.pdf"/>
+      <property name="MP" value="691111710002"/>
+      <property name="PITCH" value="5mm"/>
+      <property name="PART-NUMBER" value="691111710002"/>
+      <property name="TYPE" value="Horizontal"/>
+      <property name="Price" value="None"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=snap"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TX40.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e97c57d9-aa66-45b4-9fb6-64a2eabcde06</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>691111710002</value>
+      <footprint>footprints:691111710002</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=eda</field>
+        <field name="DATASHEET-URL">https://www.we-online.com/catalog/datasheet/691111710002.pdf</field>
+        <field name="Description">
+2 Position Wire to Board Terminal Block Horizontal with Board 0.197 (5.00mm) Through Hole
+</field>
+        <field name="IR-UL">15A</field>
+        <field name="MF">Würth Elektronik</field>
+        <field name="MOUNT">THT</field>
+        <field name="MP">691111710002</field>
+        <field name="PART-NUMBER">691111710002</field>
+        <field name="PINS">2</field>
+        <field name="PITCH">5mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=snap</field>
+        <field name="TYPE">Horizontal</field>
+        <field name="VALUE">691111710002</field>
+        <field name="WIRE">24 to 14 (AWG) 0.205 to 2.08 (mm²)</field>
+        <field name="WORKING-VOLTAGE-UL">250V(AC)</field>
+      </fields>
+      <libsource lib="691111710002" part="691111710002" description=""/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=eda"/>
+      <property name="WIRE" value="24 to 14 (AWG) 0.205 to 2.08 (mm²)"/>
+      <property name="Description" value="&#xA;2 Position Wire to Board Terminal Block Horizontal with Board 0.197 (5.00mm) Through Hole&#xA;"/>
+      <property name="Package" value="None"/>
+      <property name="MOUNT" value="THT"/>
+      <property name="IR-UL" value="15A"/>
+      <property name="VALUE" value="691111710002"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="WORKING-VOLTAGE-UL" value="250V(AC)"/>
+      <property name="PINS" value="2"/>
+      <property name="MF" value="Würth Elektronik"/>
+      <property name="DATASHEET-URL" value="https://www.we-online.com/catalog/datasheet/691111710002.pdf"/>
+      <property name="MP" value="691111710002"/>
+      <property name="PITCH" value="5mm"/>
+      <property name="PART-NUMBER" value="691111710002"/>
+      <property name="TYPE" value="Horizontal"/>
+      <property name="Price" value="None"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=snap"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TX40.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>769611a2-840a-4a8b-8889-11ec8a7d40ea</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>691111710002</value>
+      <footprint>footprints:691111710002</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=eda</field>
+        <field name="DATASHEET-URL">https://www.we-online.com/catalog/datasheet/691111710002.pdf</field>
+        <field name="Description">
+2 Position Wire to Board Terminal Block Horizontal with Board 0.197 (5.00mm) Through Hole
+</field>
+        <field name="IR-UL">15A</field>
+        <field name="MF">Würth Elektronik</field>
+        <field name="MOUNT">THT</field>
+        <field name="MP">691111710002</field>
+        <field name="PART-NUMBER">691111710002</field>
+        <field name="PINS">2</field>
+        <field name="PITCH">5mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=snap</field>
+        <field name="TYPE">Horizontal</field>
+        <field name="VALUE">691111710002</field>
+        <field name="WIRE">24 to 14 (AWG) 0.205 to 2.08 (mm²)</field>
+        <field name="WORKING-VOLTAGE-UL">250V(AC)</field>
+      </fields>
+      <libsource lib="691111710002" part="691111710002" description=""/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=eda"/>
+      <property name="WIRE" value="24 to 14 (AWG) 0.205 to 2.08 (mm²)"/>
+      <property name="Description" value="&#xA;2 Position Wire to Board Terminal Block Horizontal with Board 0.197 (5.00mm) Through Hole&#xA;"/>
+      <property name="Package" value="None"/>
+      <property name="MOUNT" value="THT"/>
+      <property name="IR-UL" value="15A"/>
+      <property name="VALUE" value="691111710002"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="WORKING-VOLTAGE-UL" value="250V(AC)"/>
+      <property name="PINS" value="2"/>
+      <property name="MF" value="Würth Elektronik"/>
+      <property name="DATASHEET-URL" value="https://www.we-online.com/catalog/datasheet/691111710002.pdf"/>
+      <property name="MP" value="691111710002"/>
+      <property name="PITCH" value="5mm"/>
+      <property name="PART-NUMBER" value="691111710002"/>
+      <property name="TYPE" value="Horizontal"/>
+      <property name="Price" value="None"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=snap"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TX40.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1abfa7d4-23f6-4849-93ac-4f22cdaa9b86</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>691111710002</value>
+      <footprint>footprints:691111710002</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=eda</field>
+        <field name="DATASHEET-URL">https://www.we-online.com/catalog/datasheet/691111710002.pdf</field>
+        <field name="Description">
+2 Position Wire to Board Terminal Block Horizontal with Board 0.197 (5.00mm) Through Hole
+</field>
+        <field name="IR-UL">15A</field>
+        <field name="MF">Würth Elektronik</field>
+        <field name="MOUNT">THT</field>
+        <field name="MP">691111710002</field>
+        <field name="PART-NUMBER">691111710002</field>
+        <field name="PINS">2</field>
+        <field name="PITCH">5mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=snap</field>
+        <field name="TYPE">Horizontal</field>
+        <field name="VALUE">691111710002</field>
+        <field name="WIRE">24 to 14 (AWG) 0.205 to 2.08 (mm²)</field>
+        <field name="WORKING-VOLTAGE-UL">250V(AC)</field>
+      </fields>
+      <libsource lib="691111710002" part="691111710002" description=""/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=eda"/>
+      <property name="WIRE" value="24 to 14 (AWG) 0.205 to 2.08 (mm²)"/>
+      <property name="Description" value="&#xA;2 Position Wire to Board Terminal Block Horizontal with Board 0.197 (5.00mm) Through Hole&#xA;"/>
+      <property name="Package" value="None"/>
+      <property name="MOUNT" value="THT"/>
+      <property name="IR-UL" value="15A"/>
+      <property name="VALUE" value="691111710002"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="WORKING-VOLTAGE-UL" value="250V(AC)"/>
+      <property name="PINS" value="2"/>
+      <property name="MF" value="Würth Elektronik"/>
+      <property name="DATASHEET-URL" value="https://www.we-online.com/catalog/datasheet/691111710002.pdf"/>
+      <property name="MP" value="691111710002"/>
+      <property name="PITCH" value="5mm"/>
+      <property name="PART-NUMBER" value="691111710002"/>
+      <property name="TYPE" value="Horizontal"/>
+      <property name="Price" value="None"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=snap"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TX40.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4f81d50-f3f5-49c4-92ac-8a3fdfa8a43b</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>691111710002</value>
+      <footprint>footprints:691111710002</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=eda</field>
+        <field name="DATASHEET-URL">https://www.we-online.com/catalog/datasheet/691111710002.pdf</field>
+        <field name="Description">
+2 Position Wire to Board Terminal Block Horizontal with Board 0.197 (5.00mm) Through Hole
+</field>
+        <field name="IR-UL">15A</field>
+        <field name="MF">Würth Elektronik</field>
+        <field name="MOUNT">THT</field>
+        <field name="MP">691111710002</field>
+        <field name="PART-NUMBER">691111710002</field>
+        <field name="PINS">2</field>
+        <field name="PITCH">5mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=snap</field>
+        <field name="TYPE">Horizontal</field>
+        <field name="VALUE">691111710002</field>
+        <field name="WIRE">24 to 14 (AWG) 0.205 to 2.08 (mm²)</field>
+        <field name="WORKING-VOLTAGE-UL">250V(AC)</field>
+      </fields>
+      <libsource lib="691111710002" part="691111710002" description=""/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=eda"/>
+      <property name="WIRE" value="24 to 14 (AWG) 0.205 to 2.08 (mm²)"/>
+      <property name="Description" value="&#xA;2 Position Wire to Board Terminal Block Horizontal with Board 0.197 (5.00mm) Through Hole&#xA;"/>
+      <property name="Package" value="None"/>
+      <property name="MOUNT" value="THT"/>
+      <property name="IR-UL" value="15A"/>
+      <property name="VALUE" value="691111710002"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="WORKING-VOLTAGE-UL" value="250V(AC)"/>
+      <property name="PINS" value="2"/>
+      <property name="MF" value="Würth Elektronik"/>
+      <property name="DATASHEET-URL" value="https://www.we-online.com/catalog/datasheet/691111710002.pdf"/>
+      <property name="MP" value="691111710002"/>
+      <property name="PITCH" value="5mm"/>
+      <property name="PART-NUMBER" value="691111710002"/>
+      <property name="TYPE" value="Horizontal"/>
+      <property name="Price" value="None"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=snap"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TX40.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c02abc43-8707-442a-815c-074a5c1eeaa7</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>691111710002</value>
+      <footprint>footprints:691111710002</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=eda</field>
+        <field name="DATASHEET-URL">https://www.we-online.com/catalog/datasheet/691111710002.pdf</field>
+        <field name="Description">
+2 Position Wire to Board Terminal Block Horizontal with Board 0.197 (5.00mm) Through Hole
+</field>
+        <field name="IR-UL">15A</field>
+        <field name="MF">Würth Elektronik</field>
+        <field name="MOUNT">THT</field>
+        <field name="MP">691111710002</field>
+        <field name="PART-NUMBER">691111710002</field>
+        <field name="PINS">2</field>
+        <field name="PITCH">5mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=snap</field>
+        <field name="TYPE">Horizontal</field>
+        <field name="VALUE">691111710002</field>
+        <field name="WIRE">24 to 14 (AWG) 0.205 to 2.08 (mm²)</field>
+        <field name="WORKING-VOLTAGE-UL">250V(AC)</field>
+      </fields>
+      <libsource lib="691111710002" part="691111710002" description=""/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=eda"/>
+      <property name="WIRE" value="24 to 14 (AWG) 0.205 to 2.08 (mm²)"/>
+      <property name="Description" value="&#xA;2 Position Wire to Board Terminal Block Horizontal with Board 0.197 (5.00mm) Through Hole&#xA;"/>
+      <property name="Package" value="None"/>
+      <property name="MOUNT" value="THT"/>
+      <property name="IR-UL" value="15A"/>
+      <property name="VALUE" value="691111710002"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="WORKING-VOLTAGE-UL" value="250V(AC)"/>
+      <property name="PINS" value="2"/>
+      <property name="MF" value="Würth Elektronik"/>
+      <property name="DATASHEET-URL" value="https://www.we-online.com/catalog/datasheet/691111710002.pdf"/>
+      <property name="MP" value="691111710002"/>
+      <property name="PITCH" value="5mm"/>
+      <property name="PART-NUMBER" value="691111710002"/>
+      <property name="TYPE" value="Horizontal"/>
+      <property name="Price" value="None"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=snap"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TX40.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b04d487a-c067-481c-88f1-3901e3be5c92</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>SRD-05VDC-SL-C</value>
+      <footprint>footprints:RELAY_SRD-05VDC-SL-C</footprint>
+      <fields>
+        <field name="Availability">Not in stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SRD-05VDC-SL-C/Songle+Relay/view-part/?ref=eda</field>
+        <field name="Description">
+5V Trigger Relay Module For Arduino And Raspberry Pi 5V Trigger Relay Module For Arduino And Raspberry Pi
+</field>
+        <field name="MANUFACTURER">SONGLE RELAY</field>
+        <field name="MF">Songle Relay</field>
+        <field name="MP">SRD-05VDC-SL-C</field>
+        <field name="Package">NON STANDARD-5 Songle Relay</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">IPC-7251</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SRD-05VDC-SL-C/Songle+Relay/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="SRD-05VDC-SL-C" part="SRD-05VDC-SL-C" description=""/>
+      <property name="MF" value="Songle Relay"/>
+      <property name="Description" value="&#xA;5V Trigger Relay Module For Arduino And Raspberry Pi 5V Trigger Relay Module For Arduino And Raspberry Pi&#xA;"/>
+      <property name="Package" value="NON STANDARD-5 Songle Relay"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SRD-05VDC-SL-C/Songle+Relay/view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7251"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SRD-05VDC-SL-C/Songle+Relay/view-part/?ref=snap"/>
+      <property name="MP" value="SRD-05VDC-SL-C"/>
+      <property name="Availability" value="Not in stock"/>
+      <property name="MANUFACTURER" value="SONGLE RELAY"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TX40.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e52c6fdb-b1f2-4557-acbc-ece99802b179</tstamps>
+    </comp>
+    <comp ref="K2">
+      <value>SRD-05VDC-SL-C</value>
+      <footprint>footprints:RELAY_SRD-05VDC-SL-C</footprint>
+      <fields>
+        <field name="Availability">Not in stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SRD-05VDC-SL-C/Songle+Relay/view-part/?ref=eda</field>
+        <field name="Description">
+5V Trigger Relay Module For Arduino And Raspberry Pi 5V Trigger Relay Module For Arduino And Raspberry Pi
+</field>
+        <field name="MANUFACTURER">SONGLE RELAY</field>
+        <field name="MF">Songle Relay</field>
+        <field name="MP">SRD-05VDC-SL-C</field>
+        <field name="Package">NON STANDARD-5 Songle Relay</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">IPC-7251</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SRD-05VDC-SL-C/Songle+Relay/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="SRD-05VDC-SL-C" part="SRD-05VDC-SL-C" description=""/>
+      <property name="MF" value="Songle Relay"/>
+      <property name="Description" value="&#xA;5V Trigger Relay Module For Arduino And Raspberry Pi 5V Trigger Relay Module For Arduino And Raspberry Pi&#xA;"/>
+      <property name="Package" value="NON STANDARD-5 Songle Relay"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SRD-05VDC-SL-C/Songle+Relay/view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7251"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SRD-05VDC-SL-C/Songle+Relay/view-part/?ref=snap"/>
+      <property name="MP" value="SRD-05VDC-SL-C"/>
+      <property name="Availability" value="Not in stock"/>
+      <property name="MANUFACTURER" value="SONGLE RELAY"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TX40.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7faea24-172a-4a2f-940c-1cd803ca7982</tstamps>
+    </comp>
+    <comp ref="PS1">
+      <value>HLK-PM01</value>
+      <footprint>Converter_ACDC:Converter_ACDC_HiLink_HLK-PMxx</footprint>
+      <datasheet>http://www.hlktech.net/product_detail.php?ProId=54</datasheet>
+      <libsource lib="Converter_ACDC" part="HLK-PM01" description="Compact AC/DC board mount power module 3W 5V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TX40.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da4d8050-a99f-4335-94de-3eed17656b28</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>Varistor</value>
+      <footprint>Varistor:RV_Disc_D12mm_W5.4mm_P7.5mm</footprint>
+      <libsource lib="Device" part="Varistor" description="Voltage dependent resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TX40.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d639aea7-2c17-4911-b28d-ee0593dad7a4</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="39211000000" part="39211000000">
+      <description>Fuses with Leads (Through Hole) 250V IEC TL LL 1A TE5</description>
+      <fields>
+        <field name="Value">39211000000</field>
+        <field name="Reference_1">F</field>
+        <field name="Value_1">39211000000</field>
+        <field name="Footprint_1">39211000000</field>
+        <field name="Datasheet_1">https://datasheet.lcsc.com/szlcsc/Littelfuse-39211000000_C99566.pdf</field>
+        <field name="Height">8</field>
+        <field name="Manufacturer_Name">LITTELFUSE</field>
+        <field name="Manufacturer_Part_Number">39211000000</field>
+        <field name="Mouser Part Number">576-3921100000</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Littelfuse/39211000000?qs=x71drwq5GondAmkqFlpf6Q%3D%3D</field>
+        <field name="Arrow Part Number">39211000000</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/39211000000/littelfuse?region=europe</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="691111710002" part="691111710002">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">691111710002</field>
+        <field name="Footprint">691111710002:691111710002</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=eda</field>
+        <field name="WIRE">24 to 14 (AWG) 0.205 to 2.08 (mm²)</field>
+        <field name="Description">
+2 Position Wire to Board Terminal Block Horizontal with Board 0.197 (5.00mm) Through Hole
+</field>
+        <field name="Package">None</field>
+        <field name="MOUNT">THT</field>
+        <field name="IR-UL">15A</field>
+        <field name="VALUE">691111710002</field>
+        <field name="Availability">In Stock</field>
+        <field name="WORKING-VOLTAGE-UL">250V(AC)</field>
+        <field name="PINS">2</field>
+        <field name="MF">Würth Elektronik</field>
+        <field name="DATASHEET-URL">https://www.we-online.com/catalog/datasheet/691111710002.pdf</field>
+        <field name="MP">691111710002</field>
+        <field name="PITCH">5mm</field>
+        <field name="PART-NUMBER">691111710002</field>
+        <field name="TYPE">Horizontal</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/691111710002/Wurth+Elektronik/view-part/?ref=snap</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Converter_ACDC" part="HLK-PM01">
+      <description>Compact AC/DC board mount power module 3W 5V</description>
+      <docs>http://www.hlktech.net/product_detail.php?ProId=54</docs>
+      <footprints>
+        <fp>Converter*ACDC*HiLink*HLK?PM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">PS</field>
+        <field name="Value">HLK-PM01</field>
+        <field name="Footprint">Converter_ACDC:Converter_ACDC_HiLink_HLK-PMxx</field>
+        <field name="Datasheet">http://www.hlktech.net/product_detail.php?ProId=54</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AC/L" type="power_in"/>
+        <pin num="2" name="AC/N" type="power_in"/>
+        <pin num="3" name="-Vout" type="power_out"/>
+        <pin num="4" name="+Vout" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Varistor">
+      <description>Voltage dependent resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>RV_*</fp>
+        <fp>Varistor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">Varistor</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4007">
+      <description>1000V 1A General Purpose Rectifier Diode, DO-41</description>
+      <docs>http://www.vishay.com/docs/88503/1n4001.pdf</docs>
+      <footprints>
+        <fp>D*DO?41*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4007</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88503/1n4001.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SRD-05VDC-SL-C" part="SRD-05VDC-SL-C">
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">SRD-05VDC-SL-C</field>
+        <field name="Footprint">SRD-05VDC-SL-C:RELAY_SRD-05VDC-SL-C</field>
+        <field name="MF">Songle Relay</field>
+        <field name="Description">
+5V Trigger Relay Module For Arduino And Raspberry Pi 5V Trigger Relay Module For Arduino And Raspberry Pi
+</field>
+        <field name="Package">NON STANDARD-5 Songle Relay</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SRD-05VDC-SL-C/Songle+Relay/view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7251</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SRD-05VDC-SL-C/Songle+Relay/view-part/?ref=snap</field>
+        <field name="MP">SRD-05VDC-SL-C</field>
+        <field name="Availability">Not in stock</field>
+        <field name="MANUFACTURER">SONGLE RELAY</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="" type="passive"/>
+        <pin num="A2" name="" type="passive"/>
+        <pin num="COM" name="" type="passive"/>
+        <pin num="NC" name="" type="passive"/>
+        <pin num="NO" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="39211000000">
+      <uri>Z:\Sector Calefaccion\03. I+D\Electronica\En Ejecucion\TX40\PCB\TX40/libs/39211000000.kicad_sym</uri>
+    </library>
+    <library logical="691111710002">
+      <uri>Z:\Sector Calefaccion\03. I+D\Electronica\En Ejecucion\TX40\PCB\TX40/libs/691111710002.kicad_sym</uri>
+    </library>
+    <library logical="Converter_ACDC">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Converter_ACDC.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="SRD-05VDC-SL-C">
+      <uri>Z:\Sector Calefaccion\03. I+D\Electronica\En Ejecucion\TX40\PCB\TX40/libs/SRD-05VDC-SL-C.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J2" pin="2" pintype="passive"/>
+      <node ref="J3" pin="1" pintype="passive"/>
+      <node ref="PS1" pin="4" pinfunction="+Vout" pintype="power_out"/>
+    </net>
+    <net code="2" name="/A1_K1">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="1" pintype="passive"/>
+      <node ref="K1" pin="A1" pintype="passive"/>
+    </net>
+    <net code="3" name="/A1_K2">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J3" pin="2" pintype="passive"/>
+      <node ref="K2" pin="A1" pintype="passive"/>
+    </net>
+    <net code="4" name="/COM__K1">
+      <node ref="J4" pin="2" pintype="passive"/>
+      <node ref="K1" pin="COM" pintype="passive"/>
+    </net>
+    <net code="5" name="/COM__K2">
+      <node ref="J5" pin="2" pintype="passive"/>
+      <node ref="K2" pin="COM" pintype="passive"/>
+    </net>
+    <net code="6" name="/L">
+      <node ref="F1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="J6" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="/L_F1">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="F1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="PS1" pin="1" pinfunction="AC/L" pintype="power_in"/>
+      <node ref="RV1" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="/N">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="J6" pin="1" pintype="passive"/>
+      <node ref="PS1" pin="2" pinfunction="AC/N" pintype="power_in"/>
+      <node ref="RV1" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="/NO__K1">
+      <node ref="J4" pin="1" pintype="passive"/>
+      <node ref="K1" pin="NO" pintype="passive"/>
+    </net>
+    <net code="10" name="/NO__K2">
+      <node ref="J5" pin="1" pintype="passive"/>
+      <node ref="K2" pin="NO" pintype="passive"/>
+    </net>
+    <net code="11" name="GND">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K1" pin="A2" pintype="passive"/>
+      <node ref="K2" pin="A2" pintype="passive"/>
+      <node ref="PS1" pin="3" pinfunction="-Vout" pintype="power_out"/>
+    </net>
+    <net code="12" name="unconnected-(K1-PadNC)">
+      <node ref="K1" pin="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="13" name="unconnected-(K2-PadNC)">
+      <node ref="K2" pin="NC" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
