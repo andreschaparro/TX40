@@ -956,7 +956,7 @@
   )
 
   (no_connect (at 219.71 107.95) (uuid d88a4647-8a41-46e1-8a97-49d758806364))
-  (no_connect (at 88.9 105.41) (uuid d88a4647-8a41-46e1-8a97-49d758806364))
+  (no_connect (at 88.9 105.41) (uuid d88a4647-8a41-46e1-8a97-49d758806365))
 
   (wire (pts (xy 58.42 97.79) (xy 73.66 97.79))
     (stroke (width 0) (type default) (color 0 0 0 0))

@@ -120,7 +120,12 @@
       },
       "track_widths": [
         0.0,
-        0.762
+        0.4,
+        0.6,
+        0.6,
+        0.762,
+        0.8,
+        1.0
       ],
       "via_dimensions": [
         {
@@ -381,7 +386,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "TX40.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

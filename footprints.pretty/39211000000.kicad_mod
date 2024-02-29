@@ -28,8 +28,8 @@
   (fp_line (start 6.79 2) (end -1.71 2) (layer "F.Fab") (width 0.2) (tstamp 3eb03ff4-4682-40df-aa4b-d9667266d02a))
   (fp_line (start -1.71 -2) (end 6.79 -2) (layer "F.Fab") (width 0.2) (tstamp 50e13af7-b479-4aea-8f2d-a4212a297839))
   (fp_line (start -1.71 2) (end -1.71 -2) (layer "F.Fab") (width 0.2) (tstamp f6de4408-5b0b-4a24-9a87-6f30f9b56a36))
-  (pad "1" thru_hole circle (at 0 0) (size 1.65 1.65) (drill 1.1) (layers *.Cu *.Mask) (tstamp 39d54032-add3-48b9-bf1a-027021b2f96d))
-  (pad "2" thru_hole circle (at 5.08 0) (size 1.65 1.65) (drill 1.1) (layers *.Cu *.Mask) (tstamp ce6b1945-5496-4553-8b72-2f13a7aa9fbc))
+  (pad "1" thru_hole circle (at 0 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp 39d54032-add3-48b9-bf1a-027021b2f96d))
+  (pad "2" thru_hole circle (at 5.08 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp ce6b1945-5496-4553-8b72-2f13a7aa9fbc))
   (model "${KIPRJMOD}/footprints.3dshapes/39211000000.stp"
     (offset (xyz 2.539999924 0 4.130000052))
     (scale (xyz 1 1 1))
